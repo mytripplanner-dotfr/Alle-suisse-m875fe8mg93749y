@@ -1,0 +1,305 @@
+{
+  "pays": "Suisse",
+  "drapeau": "🇨🇭",
+  "symbole": "🏔️",
+  "titre": "Évasion Relaxante au Cœur des Alpes Suisses",
+  "budget_total": "Environ 3100 €/personne",
+  "duree": "8 jours",
+  "date_debut": "2026-01-22",
+  "date_fin": "2026-01-29",
+  "temps_vol": "9h00 (format: 9h00 depuis Pass, senegal)",
+  "escale": "1",
+  "jours": [
+    {
+      "jour": 1,
+      "symbole": "🛬",
+      "titre": "Arrivée à Zurich et Charme de Lucerne",
+      "legende": "Après votre vol, un transfert en train vous mènera à Lucerne, une ville pittoresque au bord du lac. Profitez d'une première balade douce pour vous imprégner de l'atmosphère hivernale et admirer le célèbre Pont de la Chapelle.",
+      "lieu": "Lucerne",
+      "activites": [
+        "<strong>🛬 Arrivée à Zurich et transfert en train</strong>: Atterrissage à l'aéroport de Zurich (ZRH) suivi d'un trajet confortable en train jusqu'à Lucerne, offrant déjà de beaux paysages.",
+        "<strong>🛏️ Installation à l'hôtel et détente</strong>: Prenez le temps de vous installer dans votre hébergement et de vous reposer après le voyage.",
+        "<strong>🚶‍♂️ Balade relaxante dans la vieille ville de Lucerne</strong>: Découvrez les ruelles pavées, les maisons colorées et le célèbre Pont de la Chapelle, emblème de la ville, sous les lumières du soir."
+      ],
+      "points_interet": [
+        {
+          "nom_recherche": "Aéroport de Zurich, Zurich",
+          "categorie": "Aéroport",
+          "coords": { "lat": 47.4647, "lng": 8.5492 }
+        },
+        {
+          "nom_recherche": "Pont de la Chapelle, Lucerne",
+          "categorie": "Monument historique",
+          "coords": { "lat": 47.0512, "lng": 8.3075 }
+        }
+      ],
+      "illustration": "jour1.jpg",
+      "encarts": [
+        {
+          "symbole": "ℹ️",
+          "titre": "À savoir",
+          "texte": "Le Swiss Travel Pass est idéal pour les transports en Suisse, incluant trains, bus et bateaux, ainsi que des réductions sur les remontées mécaniques."
+        }
+      ]
+    },
+    {
+      "jour": 2,
+      "symbole": "🏞️",
+      "titre": "Lac des Quatre-Cantons et Mont Rigi",
+      "legende": "Embarquez pour une croisière paisible sur le Lac des Quatre-Cantons, puis montez au Mont Rigi pour des vues panoramiques époustouflantes sur les Alpes enneigées. Une journée entre sérénité lacustre et majesté montagnarde.",
+      "lieu": "Lucerne / Mont Rigi",
+      "activites": [
+        "<strong>🚢 Croisière sur le Lac des Quatre-Cantons</strong>: Profitez d'une balade en bateau relaxante sur les eaux calmes du lac, entouré de montagnes majestueuses.",
+        "<strong>⛰️ Ascension du Mont Rigi (Reine des Montagnes)</strong>: Prenez le train à crémaillère ou le téléphérique pour atteindre le sommet et admirer un panorama à 360 degrés sur les Alpes et les lacs.",
+        "<strong>🚶‍♀️ Promenade douce au sommet du Rigi</strong>: Flânez sur les sentiers aménagés et profitez de l'air pur de la montagne sans effort excessif."
+      ],
+      "points_interet": [
+        {
+          "nom_recherche": "Lac des Quatre-Cantons, Lucerne",
+          "categorie": "Lac",
+          "coords": { "lat": 46.995, "lng": 8.40 }
+        },
+        {
+          "nom_recherche": "Mont Rigi, Arth-Goldau",
+          "categorie": "Montagne",
+          "coords": { "lat": 47.054, "lng": 8.475 }
+        }
+      ],
+      "illustration": "jour2.jpg",
+      "encarts": [
+        {
+          "symbole": "❄️",
+          "titre": "Conseil Hivernal",
+          "texte": "En janvier, le Mont Rigi est souvent recouvert de neige. Prévoyez des chaussures chaudes et imperméables, ainsi que des vêtements superposables."
+        }
+      ]
+    },
+    {
+      "jour": 3,
+      "symbole": "♨️",
+      "titre": "Détente Thermale et Voyage vers Interlaken",
+      "legende": "Commencez la journée par une immersion bienfaisante dans les eaux chaudes d'un bain thermal, puis laissez-vous transporter par les paysages hivernaux lors de votre trajet vers Interlaken, porte d'entrée de l'Oberland bernois.",
+      "lieu": "Weggis / Interlaken",
+      "activites": [
+        "<strong>♨️ Bains thermaux de Rigi Kaltbad Mineral Baths & Spa</strong>: Offrez-vous un moment de pure relaxation dans les piscines intérieures et extérieures avec vue sur les montagnes.",
+        "<strong>🚆 Trajet panoramique vers Interlaken</strong>: Profitez du voyage en train qui vous mènera à travers des paysages suisses typiques, entre lacs et montagnes enneigées.",
+        "<strong>🚶‍♂️ Soirée libre et découverte d'Interlaken</strong>: Installez-vous à votre hôtel et explorez les environs d'Interlaken, ville nichée entre deux lacs."
+      ],
+      "points_interet": [
+        {
+          "nom_recherche": "Rigi Kaltbad Mineral Baths & Spa, Rigi Kaltbad",
+          "categorie": "Spa thermal",
+          "coords": { "lat": 47.030, "lng": 8.484 }
+        },
+        {
+          "nom_recherche": "Gare d'Interlaken Ost, Interlaken",
+          "categorie": "Gare",
+          "coords": { "lat": 46.687, "lng": 7.864 }
+        }
+      ],
+      "illustration": "jour3.jpg",
+      "encarts": [
+        {
+          "symbole": "🧖‍♀️",
+          "titre": "Bien-être",
+          "texte": "Les bains thermaux sont parfaits pour se détendre et se ressourcer, surtout après une journée en montagne. N'oubliez pas votre maillot de bain!"
+        }
+      ]
+    },
+    {
+      "jour": 4,
+      "symbole": "🚂",
+      "titre": "Charme de l'Oberland Bernois et Lac de Thoune",
+      "legende": "Découvrez la beauté des villages de l'Oberland bernois avec une balade douce à Grindelwald, puis profitez d'une croisière apaisante sur le Lac de Thoune, offrant des vues imprenables sur les châteaux et les montagnes.",
+      "lieu": "Grindelwald / Lac de Thoune",
+      "activites": [
+        "<strong>🚶‍♀️ Balade dans le village de Grindelwald</strong>: Explorez ce charmant village alpin, entouré de sommets emblématiques comme l'Eiger, et profitez de l'ambiance sereine.",
+        "<strong>🚠 Montée en télécabine vers First (optionnel)</strong>: Pour une vue encore plus spectaculaire sans effort, montez à First et admirez le panorama (activités au sommet non obligatoires).",
+        "<strong>🚢 Croisière relaxante sur le Lac de Thoune</strong>: Laissez-vous bercer par les eaux du lac, en admirant les châteaux médiévaux et les paysages alpins qui bordent ses rives."
+      ],
+      "points_interet": [
+        {
+          "nom_recherche": "Grindelwald, Grindelwald",
+          "categorie": "Village alpin",
+          "coords": { "lat": 46.625, "lng": 8.03 }
+        },
+        {
+          "nom_recherche": "Lac de Thoune, Thoune",
+          "categorie": "Lac",
+          "coords": { "lat": 46.69, "lng": 7.70 }
+        }
+      ],
+      "illustration": "jour4.jpg",
+      "encarts": [
+        {
+          "symbole": "📸",
+          "titre": "Photographie",
+          "texte": "Les paysages de l'Oberland bernois sont parmi les plus photographiés de Suisse. Préparez votre appareil pour des clichés mémorables!"
+        }
+      ]
+    },
+    {
+      "jour": 5,
+      "symbole": "🏰",
+      "titre": "Capitale Fédérale et Saveurs de Gruyères",
+      "legende": "Visitez Berne, la capitale suisse classée à l'UNESCO, avec ses arcades médiévales et sa Tour de l'Horloge. L'après-midi, plongez dans l'univers du fromage et du chocolat à Gruyères, un village au charme intemporel.",
+      "lieu": "Berne / Gruyères",
+      "activites": [
+        "<strong>🚶‍♂️ Découverte de la vieille ville de Berne</strong>: Flânez sous les arcades, admirez la Tour de l'Horloge (Zytglogge) et les fontaines ornées de la capitale suisse.",
+        "<strong>🧀 Visite de la Maison du Gruyère</strong>: Découvrez les secrets de fabrication du célèbre fromage AOP et dégustez-le frais.",
+        "<strong>🏰 Exploration du Château de Gruyères</strong>: Montez jusqu'au magnifique château médiéval et profitez de la vue sur la campagne fribourgeoise."
+      ],
+      "points_interet": [
+        {
+          "nom_recherche": "Vieille ville de Berne, Berne",
+          "categorie": "Site UNESCO",
+          "coords": { "lat": 46.948, "lng": 7.447 }
+        },
+        {
+          "nom_recherche": "La Maison du Gruyère, Pringy",
+          "categorie": "Fromagerie",
+          "coords": { "lat": 46.582, "lng": 7.085 }
+        },
+        {
+          "nom_recherche": "Château de Gruyères, Gruyères",
+          "categorie": "Château",
+          "coords": { "lat": 46.584, "lng": 7.082 }
+        }
+      ],
+      "illustration": "jour5.jpg",
+      "encarts": [
+        {
+          "symbole": "🕰️",
+          "titre": "Curiosité",
+          "texte": "La Tour de l'Horloge de Berne est un chef-d'œuvre mécanique du XVe siècle, avec un spectacle d'automates qui s'anime quelques minutes avant chaque heure pleine."
+        }
+      ]
+    },
+    {
+      "jour": 6,
+      "symbole": "🍇",
+      "titre": "Riviera Vaudoise et Vignobles de Lavaux",
+      "legende": "Passez la journée sur la Riviera Vaudoise, en visitant le majestueux Château de Chillon au bord du Lac Léman. L'après-midi, promenez-vous doucement dans les vignobles en terrasses de Lavaux, classés à l'UNESCO, pour des vues imprenables.",
+      "lieu": "Montreux / Lavaux",
+      "activites": [
+        "<strong>🏰 Visite du Château de Chillon</strong>: Explorez cette forteresse médiévale emblématique, située sur un îlot rocheux au bord du Lac Léman, et imprégnez-vous de son histoire.",
+        "<strong>🚶‍♀️ Promenade sur les quais de Montreux</strong>: Flânez le long du lac, admirez les sculptures et les jardins fleuris (même en hiver, certains sont charmants) de cette ville élégante.",
+        "<strong>🍇 Balade douce dans les vignobles de Lavaux</strong>: Découvrez les paysages en terrasses de Lavaux, classés au patrimoine mondial de l'UNESCO, et profitez des vues sur le lac et les Alpes."
+      ],
+      "points_interet": [
+        {
+          "nom_recherche": "Château de Chillon, Veytaux",
+          "categorie": "Château",
+          "coords": { "lat": 46.414, "lng": 6.929 }
+        },
+        {
+          "nom_recherche": "Quais de Montreux, Montreux",
+          "categorie": "Promenade",
+          "coords": { "lat": 46.431, "lng": 6.911 }
+        },
+        {
+          "nom_recherche": "Vignobles de Lavaux, Cully",
+          "categorie": "Site UNESCO",
+          "coords": { "lat": 46.494, "lng": 6.758 }
+        }
+      ],
+      "illustration": "jour6.jpg",
+      "encarts": [
+        {
+          "symbole": "🍷",
+          "titre": "Dégustation",
+          "texte": "Bien que ce soit l'hiver, certains vignerons de Lavaux proposent des dégustations en intérieur. Une belle occasion de goûter les vins locaux."
+        }
+      ]
+    },
+    {
+      "jour": 7,
+      "symbole": "🛍️",
+      "titre": "Retour à Zurich et Détente Urbaine",
+      "legende": "Profitez d'un dernier trajet en train à travers la Suisse pour rejoindre Zurich. L'après-midi sera consacrée à une balade tranquille dans la ville, entre shopping et découverte des rives de la Limmat, avant de préparer votre départ.",
+      "lieu": "Zurich",
+      "activites": [
+        "<strong>🚆 Trajet en train vers Zurich</strong>: Un dernier voyage confortable à travers les paysages suisses vous ramène à votre point de départ.",
+        "<strong>🚶‍♂️ Balade le long de la Limmat et dans la vieille ville</strong>: Découvrez le charme de Zurich, ses rues commerçantes élégantes et ses rives paisibles.",
+        "<strong>🛍️ Temps libre pour le shopping ou un café</strong>: Profitez-en pour acheter des souvenirs ou vous détendre dans l'un des nombreux cafés de la ville."
+      ],
+      "points_interet": [
+        {
+          "nom_recherche": "Gare Centrale de Zurich, Zurich",
+          "categorie": "Gare",
+          "coords": { "lat": 47.378, "lng": 8.540 }
+        },
+        {
+          "nom_recherche": "Bahnhofstrasse, Zurich",
+          "categorie": "Rue commerçante",
+          "coords": { "lat": 47.370, "lng": 8.539 }
+        },
+        {
+          "nom_recherche": "Rives de la Limmat, Zurich",
+          "categorie": "Rivière",
+          "coords": { "lat": 47.370, "lng": 8.542 }
+        }
+      ],
+      "illustration": "jour7.jpg",
+      "encarts": [
+        {
+          "symbole": "🍫",
+          "titre": "Derniers achats",
+          "texte": "Zurich est le lieu idéal pour acheter du chocolat suisse de qualité supérieure ou d'autres spécialités locales avant de partir."
+        }
+      ]
+    }
+  ],
+  "detail_budget": [
+    { "titre": "Budget vol:", "legende": "A partir de 414 €/pers", "symbole": "🛬" },
+    { "titre": "Budget transports:", "legende": "Environ 500 €/pers (Swiss Travel Pass 8 jours)", "symbole": "🚆" },
+    { "titre": "Budget repas:", "legende": "Environ 560 €/pers (80€/jour x 7 jours)", "symbole": "🥗" },
+    { "titre": "Budget logement:", "legende": "Environ 1190 €/pers (170€/nuit x 7 nuits, base 3* double)", "symbole": "🛏️" },
+    { "titre": "Budget activités:", "legende": "Environ 420 €/pers (60€/jour x 7 jours)", "symbole": "🎭" }
+  ],
+  "periodes_ideales": [
+    { "titre": "Juin à Septembre (été/automne)", "symbole": "☀️" },
+    { "titre": "Décembre à Mars (sports d'hiver)", "symbole": "❄️" }
+  ],
+  "infos_pratiques": [
+    { "titre": "En janvier, les températures varient entre -5 et 5°C. Prévoir des vêtements très chauds, imperméables et des chaussures adaptées à la neige.", "symbole": "🍁" },
+    { "titre": "La monnaie est le Franc Suisse (CHF). Les cartes de crédit sont largement acceptées. Prévoir un peu de liquide pour les petits commerces ou marchés.", "symbole": "💳" },
+    { "titre": "Le réseau de transports publics suisse est excellent et ponctuel. Le Swiss Travel Pass est fortement recommandé pour les voyageurs.", "symbole": "🚆" },
+    { "titre": "La Suisse a quatre langues officielles: l'allemand, le français, l'italien et le romanche. L'anglais est généralement parlé dans les zones touristiques.", "symbole": "🗣️" }
+  ],
+  "infos_decallees": [
+    {
+      "symbole": "💡",
+      "titre": "Le saviez-vous ?",
+      "texte": "La Suisse possède plus de bunkers que de maisons, une particularité héritée de sa politique de neutralité et de sa stratégie de défense nationale."
+    },
+    {
+      "symbole": "🙃",
+      "titre": "Insolite",
+      "texte": "Les Suisses sont les plus grands consommateurs de chocolat au monde, avec une moyenne de plus de 10 kilogrammes par personne et par an!"
+    }
+  ],
+  "specialites_culinaires": [
+    {
+      "symbole": "🍴",
+      "titre": "La Fondue Suisse",
+      "description": "Un plat convivial et emblématique, composé de fromages suisses fondus dans lesquels on trempe des morceaux de pain à l'aide d'une longue fourchette."
+    },
+    {
+      "symbole": "🧀",
+      "titre": "La Raclette",
+      "description": "Un autre délice fromager où le fromage est fondu et raclé directement sur des pommes de terre, accompagné de cornichons et d'oignons grelots."
+    },
+    {
+      "symbole": "🍫",
+      "titre": "Le Chocolat Suisse",
+      "description": "Réputé mondialement pour sa qualité, sa finesse et sa variété. Un incontournable à déguster et à rapporter en souvenir."
+    }
+  ],
+  "liens_utiles": [
+    { "legende": "Vols", "titre": "Réserve ton vol", "url": "https://www.kayak.fr/flights/DSS-ZRH/2026-01-22/2026-01-29", "symbole": "🛬" },
+    { "legende": "Infos officielles et inspirations", "titre": "Tourisme Suisse", "url": "https://www.myswitzerland.com/fr/", "symbole": "📘" },
+    { "legende": "Horaires des transports", "titre": "CFF (Chemins de fer fédéraux)", "url": "https://www.sbb.ch/fr/home.html", "symbole": "🚆" },
+    { "legende": "Météo", "titre": "Météo Suisse", "url": "https://www.meteosuisse.admin.ch/home.html?lang=fr", "symbole": "🌤️" }
+  ]
+}
